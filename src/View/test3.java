@@ -1,4 +1,4 @@
-package Vue;
+package View;
 
 public class test3 {
 }
