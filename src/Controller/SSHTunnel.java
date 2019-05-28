@@ -1,6 +1,6 @@
-package jdbcv2018;
+package Controller;
 
-import com.jcraft.jsch.*;
+//import com.jcraft.jsch.*;
 
 /**
  * Etablit une connexion au serveur de la base de données via un tunnel SSH
